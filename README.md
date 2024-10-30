@@ -30,6 +30,9 @@ Este proyecto contiene una API REST para el registro de alumnos y empresas en el
          }
          }
          }
+
+![jenkins-docker](https://github.com/user-attachments/assets/310ea13e-af32-4e38-a525-e8a189c95e9d)
+
    
 3. Ejecutar el pipeline y ahora ya se puede realizar pruebas con Postman.
    Capturas de pantalla de las pruebas de los métodos:
@@ -47,27 +50,18 @@ Este proyecto contiene una API REST para el registro de alumnos y empresas en el
 
 
 - DELETE alumno por su número de control
+![image](https://github.com/user-attachments/assets/3846f2a2-d64e-446a-81b9-8db3ffa7a1aa)
 
 
 - POST empresa
-  
+![image](https://github.com/user-attachments/assets/8ea58384-f9cc-467d-8498-44d7b5feb42c)
+
 
 - GET empresa por su id
-  
+![image](https://github.com/user-attachments/assets/871152b3-6c03-4ea9-8a86-be1b5121b37f)
 
 - PUT empresa por su id
-
+![image](https://github.com/user-attachments/assets/38b2c483-0c3b-4216-9cb0-f66b7a94024c)
 
 - DELETE empresa por su id
-
-
-- POST empresa_alumno
-
-
-- GET empresa_alumno por su id
-
-
-- put empresa_alumno por su id
-
-
-- DELETE empresa_alumno por su id
+![image](https://github.com/user-attachments/assets/95641349-e2ca-4d85-96c9-4e0eba59dd44)
